@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{40AA71F7-EF7E-4748-A329-5359AAFB1CE7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Inlämningsuppgift.nosql PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inlämningsuppgift.nosql/appsettings.json">
+    <Files>
+      <File FileName="Inlämningsuppgift.nosql/Data/DataContext.cs" />
+      <File FileName="Inlämningsuppgift.nosql/Models/ProductCatalog.cs" Line="1" Column="1" />
+      <File FileName="Inlämningsuppgift.nosql/Program.cs" Line="4" Column="1" />
+      <File FileName="Inlämningsuppgift.nosql/appsettings.json" Line="14" Column="1" />
+      <File FileName="Inlämningsuppgift.nosql/Controllers/ProductsController.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inlämningsuppgift.nosql" expanded="True">
+            <Node name="Inlämningsuppgift.nosql" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
